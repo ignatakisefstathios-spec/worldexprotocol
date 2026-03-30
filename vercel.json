@@ -47,9 +47,5 @@
         }
       ]
     }
-  ],
-  "env": {
-    "VITE_WORLDCOIN_APP_ID": "@worldcoin-app-id",
-    "VITE_WORLDCOIN_API_KEY": "@worldcoin-api-key"
-  }
+  ]
 }
